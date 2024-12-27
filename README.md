@@ -1,0 +1,1 @@
+This repository demonstrates an unexpected behavior in Next.js 15's App directory when using a simple functional component.  The issue is that the component renders unexpectedly, and the expected output is not displayed. This repository aims to highlight this behavior and provide a potential solution or workaround.
